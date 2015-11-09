@@ -26,6 +26,8 @@
 
 * Indonesian             :  Reza Faiz A Rahman <rezafaizarahman@gmail.com>
 
+* Italian                :  Angelo Granieri <angelryder93@gmail.com>
+
 * Japanese               :  Toshiyuki Tega <softgatelimitedjapan@gmail.com>
 
 * Korean                 :  Rhio Kim <rhio.kim@gmail.com>, Haroopad <rhio.kim+haroopad@gmail.com>
